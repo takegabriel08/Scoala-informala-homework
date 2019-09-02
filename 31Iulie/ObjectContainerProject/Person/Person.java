@@ -1,4 +1,4 @@
-package ro.siit.bv04.ObjectContainerProject.Person;
+package Person;
 
 
 import java.util.Objects;

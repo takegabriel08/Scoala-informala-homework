@@ -1,4 +1,4 @@
-package ro.siit.bv04.ObjectContainerProject.Adress;
+package Adress;
 /**
  *  Am creeat clasa adresa care contine tara judet oras
  *  pentru adresele hobby-urilor persoanelor.

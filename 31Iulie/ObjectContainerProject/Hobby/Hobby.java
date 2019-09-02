@@ -1,6 +1,7 @@
-package ro.siit.bv04.ObjectContainerProject.Hobby;
+package Hobby;
 
-import ro.siit.bv04.ObjectContainerProject.Adress.Adresa;
+import Adress.Adresa;
+
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package ro.siit.bv04.ObjectContainerProject.Comparator;
+package Comparator;
 
 import java.util.Comparator;
 

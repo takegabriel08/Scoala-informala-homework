@@ -1,4 +1,4 @@
-package ro.siit.bv04.ObjectContainerProject.Person;
+package Person;
 
 public class Angajat extends Person {
     public Angajat(String name, int age) {

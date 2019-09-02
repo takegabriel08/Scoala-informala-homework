@@ -1,4 +1,6 @@
-package ro.siit.bv04.ObjectContainerProject.Person;
+package Person;
+
+import Person.Person;
 
 public class PersonFactory {
     /**
