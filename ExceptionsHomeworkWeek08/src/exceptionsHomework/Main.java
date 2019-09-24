@@ -62,14 +62,7 @@ public class Main {
             st.orderRepoByBirthDate();
 
             System.out.println("=======================-----========================");
-
-            System.out.println("Sort repository");
-            st.getSortedRepository();
-            System.out.println("=======================-----========================");
-
-            System.out.println("Get unsorted repository");
-            st.getRepository();
-
+            
 
         } catch (ValidationException e) {
             e.printStackTrace();

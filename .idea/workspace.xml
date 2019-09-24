@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee9fba94-0707-4dc0-be90-2a83b9cc2c8a" name="Default Changelist" comment="">
+    <list default="true" id="ee9fba94-0707-4dc0-be90-2a83b9cc2c8a" name="Default Changelist" comment="Tema cu Exceptions week 8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExceptionsHomeworkWeek08/src/exceptionsHomework/ExceptionsTest/ExceptionDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionsHomeworkWeek08/src/exceptionsHomework/ExceptionsTest/ExceptionDateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExceptionsHomeworkWeek08/src/exceptionsHomework/ExceptionsTest/StudentContainerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionsHomeworkWeek08/src/exceptionsHomework/ExceptionsTest/StudentContainerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionsHomeworkWeek08/ExceptionsHomeworkWeek08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionsHomeworkWeek08/ExceptionsHomeworkWeek08.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionsHomeworkWeek08/src/exceptionsHomework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionsHomeworkWeek08/src/exceptionsHomework/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,9 +27,9 @@
   <component name="ProjectId" id="1R44wSOeGTOiXNGHhiIYpcvPAWZ" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ExceptionsHomeworkWeek08" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
@@ -53,7 +53,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionsHomework.Main" />
+      <module name="ExceptionsHomeworkWeek08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionsHomework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week5.bubbleSort.Main" />
       <module name="Scoala-informala-homework" />
@@ -69,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
