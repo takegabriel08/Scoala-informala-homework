@@ -140,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577527387843</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tema IO week 11. Io homework varianta si cu ajutor de la Tudor">
+      <created>1577528590425</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577528590425</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -163,9 +170,14 @@
     <MESSAGE value="Tema din 31 Iulie cu Persoane si Hobby, Object Container." />
     <MESSAGE value="Tema din 31 Iulie cu Persoane si Hobby, Object Container. Fara teste, nu am stiut la ce sa fac teste. Sper sa fie ok" />
     <MESSAGE value="Tema cu atleti si Biathlon." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tema cu atleti si Biathlon." />
+    <MESSAGE value="Tema IO week 11. Io homework varianta si cu ajutor de la Tudor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema IO week 11. Io homework varianta si cu ajutor de la Tudor" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="405" y="10" key="CommitChangelistDialog2" timestamp="1577528589318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="405" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577528589318" />
     <state x="481" y="129" key="MultipleFileMergeDialog" timestamp="1577528498087">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -174,5 +186,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577527272251" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1577528650928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577528650928" />
   </component>
 </project>
