@@ -1,4 +1,4 @@
-package src;
+
 
 public class Athlete {
     //AthleteNumber,AthleteName,CountryCode,SkiTimeResult(Minutes:Seconds),FirstShootingRange.SecondShooting,ThirShootingeRane
